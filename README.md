@@ -18,11 +18,11 @@ Designed for:
 KL08 → 4 stops away (14 min)  
 LC07A → 7 stops away (22 min)
 
+![Live bus dashboard](images/inkdisplay.jpg)
+
 ## Usage
 ```bash
 pip install -r requirements.txt
 python antalyakart_dashboard.py
 
-## Demo
 
-![Live bus dashboard](images/inkdisplay.jpg)
