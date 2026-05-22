@@ -1,0 +1,25 @@
+========================================
+
+--- Westbound (Home) ---
+KL08 → 4 stops away (14 min)
+LC07A → 7 stops away (22 min)
+511 → 8 stops away (24 min)
+
+--- Eastbound (Home) ---
+KL08 → 3 stops away (12 min)
+LC07A → 6 stops away (20 min)
+
+Next update in 31.2 seconds
+
+========================================
+
+--- Westbound (Home) ---
+KL08 → 3 stops away (13 min)
+LC07A → 6 stops away (21 min)
+511 → 7 stops away (23 min)
+
+--- Eastbound (Home) ---
+KL08 → 2 stops away (11 min)
+LC07A → 5 stops away (19 min)
+
+Next update in 29.6 seconds
