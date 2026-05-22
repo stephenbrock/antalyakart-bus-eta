@@ -25,4 +25,4 @@ python antalyakart_dashboard.py
 
 ## Demo
 
-![Live bus dashboard](assets/demo.jpg)
+![Live bus dashboard](images/inkdisplay.jpg)
