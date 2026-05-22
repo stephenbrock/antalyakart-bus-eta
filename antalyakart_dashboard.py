@@ -4,17 +4,24 @@ import random
 
 BASE_URL = "https://service.kentkart.com/rl1/web/nearest/bus"
 
+# ============================================================
+# 🚏 CONFIGURATION SECTION (EDIT YOUR BUS STOPS HERE)
+# ============================================================
+# Add or remove stops in this dictionary.
+#
+# Format:
+# "Display Name": STOP_ID
+#
+# Example:
+# "Home Westbound": 10850
+#
+# You can rename anything on the left for readability.
+# Only the STOP_ID (number) matters for the API.
+# ============================================================
+
 STOPS = {
-    "Westbound (10850)": {
-        "id": 10850,
-        "lat": 36.860152,
-        "lng": 30.828408
-    },
-    "Eastbound (10844)": {
-        "id": 10844,
-        "lat": 36.86152564224672,
-        "lng": 30.82806390536419
-    }
+    "Westbound (Home)": 10850,
+    "Eastbound (Home)": 10844
 }
 
 def get_stop(stop):
