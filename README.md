@@ -22,3 +22,7 @@ LC07A → 7 stops away (22 min)
 ```bash
 pip install -r requirements.txt
 python antalyakart_dashboard.py
+
+## Demo
+
+![Live bus dashboard](assets/demo.jpg)
